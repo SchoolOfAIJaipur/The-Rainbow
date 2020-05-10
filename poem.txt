@@ -5,6 +5,7 @@ red
 purple
 green
 orange 
+pink
 blue
 
 these are the colours
